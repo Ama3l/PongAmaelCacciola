@@ -13,7 +13,7 @@ Il punteggio viene visuallizzato in alto a sinistra dentro al rettangolo di gioc
 Si interagisce con le mani, che controllano il movimento su o giu dei due paddle. 
 
 # **Tecnologia utilizzata (in particolare: uso di funzioni, regole di stile e altri aspetti rilevanti)**
-
+<img documentazione=“doc/Ball.png”>
 
 
 # **Target e contesto d’uso**
