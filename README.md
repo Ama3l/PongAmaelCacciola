@@ -1,9 +1,9 @@
-# PongAmaelCacciola
+# Manipolazione
 Pong Game
 
 
 # Tema affrontato
-Antologia a due mani, creazione di un sito che fornisca un interazione con le mani.
+creazione di un sito che fornisca un interazione con le mani.
 
 
 # Design dell’interfaccia e modalità di interazione
